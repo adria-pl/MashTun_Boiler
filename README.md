@@ -7,3 +7,4 @@ The program is an Arduino sketch including the necessary libraries to create an 
 The combined mash tun and boiler system consists of a 3 coil heating element and one NTC temperature probe.
 
 ## FLOWCHART
+![System flowchart](Flowchart_MashTun_Boiler.png)
