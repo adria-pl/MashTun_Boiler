@@ -8,3 +8,7 @@ The combined mash tun and boiler system consists of a 3 coil heating element and
 
 ## FLOWCHART
 ![System flowchart](Flowchart_MashTun_Boiler.png)
+
+
+## Screenshot of the webserver interface
+![Screenshot](Screenshot.jpg)
